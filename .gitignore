@@ -1,0 +1,35 @@
+# Python artifacts
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django artifacts
+*.log
+*.pot
+*.db
+db.sqlite3
+media
+
+# Virtual environment
+.venv/
+ENV/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs / editors
+/.vscode
+/.idea
+*.swp
+*.swo
+*.swn
+*.bak
